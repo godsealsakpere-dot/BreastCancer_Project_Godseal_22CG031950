@@ -1,1 +1,13 @@
-
+body {
+    background-color: #fff0f5; /* Lavender Blush */
+}
+h1 {
+    color: #c71585; /* Medium Violet Red */
+    text-align: center;
+}
+div.stButton > button {
+    background-color: #c71585;
+    color: white;
+    width: 100%;
+    font-weight: bold;
+}
