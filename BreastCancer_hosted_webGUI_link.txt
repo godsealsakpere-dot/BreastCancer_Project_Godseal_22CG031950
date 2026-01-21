@@ -1,0 +1,6 @@
+Name: GODSEAL MIKE SAKPERE
+Matric Number: 22CG031950
+Machine Learning Algorithm Used: Support Vector Machine (SVM)
+Model persistence method used: Joblib
+Live URL of the hosted application: [Paste your Streamlit App URL here]
+GitHub repository link: [Paste your GitHub Repo URL here]
